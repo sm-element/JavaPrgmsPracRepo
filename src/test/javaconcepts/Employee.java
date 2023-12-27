@@ -22,6 +22,7 @@ class trying{
 	public static void main(String args[])
 	{
 		Sytem.out.println("Editing from develop branch to test merge conflict case");
+		System.out.println("Making feature branch change to test merge to develop branch after rebase and code change");
 		System.out.println("Inside main method");
 		ArrayList<Employee> l1 = new ArrayList<Employee>();
 		l1.add(new Employee(1,"firs"));
