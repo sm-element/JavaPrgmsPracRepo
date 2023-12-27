@@ -21,6 +21,7 @@ class trying{
 	
 	public static void main(String args[])
 	{
+		Sytem.out.println("Editing from develop branch to test merge conflict case");
 		System.out.println("Inside main method");
 		ArrayList<Employee> l1 = new ArrayList<Employee>();
 		l1.add(new Employee(1,"firs"));
