@@ -34,6 +34,7 @@ public class SingletonLearn {
 
 public static void main(String args[])
 {
+	System.out.println("I am inside SingletonLearn class-> main method - 2 round test for merge conflict);
 	SingletonLearn s1 = SingletonLearn.getInstance() ;
 	s1.str = "Hi first instance";
 	
