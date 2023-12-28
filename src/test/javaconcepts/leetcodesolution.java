@@ -17,7 +17,8 @@ class leetcodesolution {
     }
      public static void main(String[] args)
     {
-       String s1= "11";
+       System.out.println("Inside leetcodesolution class - main method - latest code - pull test);
+        String s1= "11";
        String s2 = "123";
         System.out.println(addStrings(s1,s2));
     }
