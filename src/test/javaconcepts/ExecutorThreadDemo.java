@@ -7,6 +7,7 @@ public class ExecutorThreadDemo {
 
 	public static void main(String args[])
 	{
+		System.out.println("Inside ExecutorThreadDemo class");
 		singlethreaddemo();
 		fixedthreadpooldemo();		
 	}
