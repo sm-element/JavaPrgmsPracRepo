@@ -8,6 +8,7 @@ public class StreamTest
 {
     public static void main(String[] args)
     {
+        System.out.println("Inside StreamTest class - main method");
         List<SchoolObj> listOne = new ArrayList<SchoolObj>();
         // TODO: Add sample data to listOne.
         listOne.add(new SchoolObj("nameA", "schoolX"));
