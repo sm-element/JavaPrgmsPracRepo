@@ -7,8 +7,10 @@ public class ExecutorThreadDemo {
 
 	public static void main(String args[])
 	{
-		
+
 		System.out.println("Inside ExecutorThreadDemo class - test for pulling latest code");
+		System.out.println("Inside ExecutorThreadDemo class - test for pushing and commiting code to feature branch then merge");
+		System.out.println("Inside ExecutorThreadDemo class");
 		singlethreaddemo();
 		fixedthreadpooldemo();		
 	}
