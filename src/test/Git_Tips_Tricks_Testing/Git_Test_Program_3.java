@@ -11,5 +11,6 @@ class Git_Test_Program_3
 
 		System.out.println("From develop branch - for feature5 changes");
 
+		System.out.println("From feature5 branch - first commit from feature branch");
 	}
 }
