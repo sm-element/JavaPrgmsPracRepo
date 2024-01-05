@@ -16,6 +16,7 @@ class Git_Test_Program_3
 		System.out.println("from feature7 branch - direct commit from develop branch");
 
 		System.out.println("From feature7 branch - first commit from feature branch itself");
+		System.out.println("feature 8 branch - direct commit to develop branch);
 
 	}
 }
